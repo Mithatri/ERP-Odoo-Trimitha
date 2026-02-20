@@ -14,5 +14,5 @@ Progres:
 4. Membuat 2 gudang (gudang pusat dan gudang cabang)
 5. Simulasi transfer barang dari gudang pusat ke gudang cabang
 6. Mencetak invoice
-7. Membuat beberapa diskon ( %, nominal, member)
+7. Membuat beberapa diskon ( %, nominal, member, dan diskon berlaku kelipatan)
 8. Simulasi hutang ke vendor
